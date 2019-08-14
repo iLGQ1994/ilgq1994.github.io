@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>标签列表 | iLGQ1994小站</title>
+<title>右键添加管理员CMD | iLGQ1994小站</title>
 <meta name="description" content="iLGQ1994小站-于无所希望中得救">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -91,16 +91,79 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
+          <div class="post-detail">
+            <h2 class="post-title">右键添加管理员CMD</h2>
+            <div class="post-date">2018-10-01</div>
             
-              <a class="tag" href="https://ilgq1994.github.io/tag/hgt9XIjsg">文摘</a>
+            <div class="post-content">
+              <p>Windows 10自带的为powershell，有时需要CMD。</p>
+<h3 id="替换方法">替换方法</h3>
+<p>新建reg文件，复制以下代码，导入注册表。</p>
+<pre><code>Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\runas]
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+
+[-HKEY_CLASSES_ROOT\Drive\shell\runas]
+
+[HKEY_CLASSES_ROOT\Drive\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Drive\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+</code></pre>
+<p>导入完成即可。</p>
+
+            </div>
             
-              <a class="tag" href="https://ilgq1994.github.io/tag/rlN84QDyV">Win技巧</a>
+              <div class="tag-container">
+                
+                  <a href="https://ilgq1994.github.io/tag/rlN84QDyV" class="tag">
+                    Win技巧
+                  </a>
+                
+              </div>
             
-              <a class="tag" href="https://ilgq1994.github.io/tag/D3ZRTxaOe">windows软件</a>
             
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://ilgq1994.github.io/post/windows-gong-ju">
+                  <h3 class="post-title">
+                    Windows工具
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+
           </div>
+
         </div>
       </div>
     </div>
