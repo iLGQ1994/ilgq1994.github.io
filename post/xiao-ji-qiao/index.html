@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>右键添加管理员CMD | iLGQ1994小站</title>
+<title>小技巧 | iLGQ1994小站</title>
 <meta name="description" content="于无所希望中得救&lt;br /&gt;
 邮箱：ilgq1994@qq.com">
 
@@ -101,53 +101,21 @@ Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea<
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
           <div class="post-detail">
-            <h2 class="post-title">右键添加管理员CMD</h2>
-            <div class="post-date">2018-10-01</div>
+            <h2 class="post-title">小技巧</h2>
+            <div class="post-date">2019-03-01</div>
             
             <div class="post-content">
-              <p>Windows 10自带的为powershell，有时需要CMD。</p>
-<h3 id="替换方法">替换方法</h3>
-<p>新建reg文件，复制以下代码，导入注册表。</p>
-<pre><code>Windows Registry Editor Version 5.00
-
-[-HKEY_CLASSES_ROOT\Directory\shell\runas]
-
-[HKEY_CLASSES_ROOT\Directory\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-
-[-HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-
-[-HKEY_CLASSES_ROOT\Drive\shell\runas]
-
-[HKEY_CLASSES_ROOT\Drive\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Drive\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-</code></pre>
-<p>导入完成即可。<br>
-或<a href="https://github.com/iLGQ1994/FILE/raw/master/16-cmd.zip">点此</a>下载reg文件导入</p>
+              <h1 id="更改右键发送到选项">更改右键“发送到&quot;选项</h1>
+<p>随便打开一个文件夹，在地址栏中输入“shell:sendto”，按回车键打开“发送到”文件夹。</p>
+<h1 id="新建关机快速按钮">新建关机快速按钮</h1>
+<p>新建快捷方式，填： shutdown –s –t 0</p>
+<h1 id="关闭视频预览">关闭视频预览</h1>
+<p>打开注册表，找到键值删除<br>
+HKEY_CLASSES_ROOT\CLSID{9DBD2C50-62AD-11d0-B806-00C04FD706EC}<br>
+删除权限问题：如果无法删除键值，则右键键值-&gt;权限-&gt;高级-&gt;所有者-&gt;更改-&gt;输入要选择对象的名称，把所有者更改为当前用户（Administrator），再给赋予权限即可。</p>
+<h1 id="删除计算机-3d对象">删除计算机-3D对象</h1>
+<p>打开注册表，找到键值删除<br>
+KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}</p>
 
             </div>
             
@@ -162,9 +130,9 @@ Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea<
             
               <div class="next-post">
                 <div class="next">下一篇</div>
-                <a href="https://ilgq1994.github.io/post/windows-gong-ju">
+                <a href="https://ilgq1994.github.io/post/you-jian-tian-jia-guan-li-yuan-cmd">
                   <h3 class="post-title">
-                    Windows工具
+                    右键添加管理员CMD
                   </h3>
                 </a>
               </div>
