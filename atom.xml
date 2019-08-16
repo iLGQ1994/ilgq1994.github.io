@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-08-16T15:57:02.911Z</updated>
+    <updated>2019-08-16T15:58:43.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -17,6 +17,11 @@
         <link href="https://ilgq1994.github.io/post/xun-lei-min-gan-zi-yuan-xian-zhi-jie-chu">
         </link>
         <updated>2019-08-14T14:56:11.000Z</updated>
+        <content type="html"><![CDATA[<p>127.0.0.1   hub5emu.sandai.net<br>
+127.0.0.1   hub5btmain.sandai.net<br>
+127.0.0.1   upgrade.xl9.xunlei.com<br>
+在hosts(C:\system32\drivers\etc\hosts）里面写入这三个地址就可以了</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ 特殊符号]]></title>
@@ -24,6 +29,119 @@
         <link href="https://ilgq1994.github.io/post/te-shu-fu-hao">
         </link>
         <updated>2019-08-14T14:29:46.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="大写数字">大写数字</h3>
+<p>零 壹 貳 參 肆 伍 陸 柒 捌 玖 拾</p>
+<h3 id="勾与叉">勾与叉</h3>
+<p>✓ ✔ ✗ ✘ ∨ √ ˇ ☐ ☑ ☒</p>
+<h3 id="数字">数字</h3>
+<p>０ １ ２ ３ ４ ５ ６ ７ ８ ９<br>
+⒈ ⒉ ⒊ ⒋ ⒌ ⒍ ⒎ ⒏ ⒐ ⒑ ⒒ ⒓ ⒔ ⒕ ⒖ ⒗ ⒘ ⒙ ⒚ ⒛<br>
+🄁 🄂 🄃 🄄 🄅 🄆 🄇 🄈 🄉 🄊<br>
+⑴ ⑵ ⑶ ⑷ ⑸ ⑹ ⑺ ⑻ ⑼ ⑽<br>
+⑴ ⑵ ⑶ ⑷ ⑸ ⑹ ⑺ ⑻ ⑼ ⑽ ⑾ ⑿ ⒀ ⒁ ⒂ ⒃ ⒄ ⒅ ⒆ ⒇<br>
+⓿ ❶ ❷ ❸ ❹ ❺ ❻ ❼ ❽ ❾ ❿<br>
+⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳<br>
+㉑ ㉒ ㉓ ㉔ ㉕ ㉖ ㉗ ㉘ ㉙ ㉚ ㉛ ㉜ ㉝ ㉞ ㉟ ㊱ ㊲ ㊳ ㊴ ㊵ ㊶ ㊷ ㊸ ㊹ ㊺ ㊻ ㊼ ㊽ ㊾ ㊿<br>
+⓵ ⓶ ⓷ ⓸ ⓹ ⓺ ⓻ ⓼ ⓽ ⓾<br>
+㈠ ㈡ ㈢ ㈣ ㈤ ㈥ ㈦ ㈧ ㈨ ㈩<br>
+㊀ ㊁ ㊂ ㊃ ㊄ ㊅ ㊆ ㊇ ㊈ ㊉<br>
+Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ Ⅺ Ⅻ<br>
+ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ</p>
+<h3 id="字母">字母</h3>
+<p>⒜　⒝　⒞　⒟　⒠　⒡　⒢　⒣　⒤　⒥　⒦　⒧　⒨　⒩　⒪　⒫　⒬　⒭　⒮　⒯　⒰　⒱　⒲　⒳　⒴　⒵<br>
+Ⓐ　Ⓑ　Ⓒ　Ⓓ　Ⓔ　Ⓕ　Ⓖ　Ⓗ　Ⓘ　Ⓙ　Ⓚ　Ⓛ　Ⓜ　Ⓝ　Ⓞ　Ⓟ　Ⓠ　Ⓡ　Ⓢ　Ⓣ　Ⓤ　Ⓥ　Ⓦ　Ⓧ　Ⓨ　Ⓩ<br>
+ⓐ　ⓑ　ⓒ　ⓓ　ⓔ　ⓕ　ⓖ　ⓗ　ⓘ　ⓙ　ⓚ　ⓛ　ⓜ　ⓝ　ⓞ　ⓟ　ⓠ　ⓡ　ⓢ　ⓣ　ⓤ　ⓥ　ⓦ　ⓧ　ⓨ　ⓩ</p>
+<h3 id="希腊字母">希腊字母</h3>
+<ol>
+<li>Α α alpha a:lf 阿尔法 角度；系数</li>
+<li>Β β beta bet 贝塔 磁通系数；角度；系数</li>
+<li>Γ γ gamma ga:m 伽马 电导系数（小写）</li>
+<li>Γ δ delta delt 德尔塔 变动；密度；屈光度</li>
+<li>Δ ε epsilon epsilon 伊普西龙 对数之基数</li>
+<li>Ε δ zeta zat 截塔 系数；方位角；阻抗；相对粘度；原子序数</li>
+<li>Ζ ε eta eit 艾塔 磁滞系数；效率（小写）</li>
+<li>Θ ζ thet ζit 西塔 温度；相位角</li>
+<li>Η η iot aiot 约塔 微小，一点儿</li>
+<li>Κ θ kappa kap 卡帕 介质常数</li>
+<li>∧ ι lambda lambd 兰布达波长（小写）；体积</li>
+<li>Μ κ mu mju 缪 磁导系数；微（千分之一）；放大因数（小写）</li>
+<li>Ν λ nu nju 纽 磁阻系数</li>
+<li>Ξ μ xi ksi 克西</li>
+<li>Ο ν omicron omikron 奥密克戎</li>
+<li>∏ π pi pai 派 圆周率=圆周÷直径=3.1416</li>
+<li>Ρ ξ rho rou 肉 电阻系数（小写）</li>
+<li>∑ ζ sigma sigma 西格马 总和（大写），表面密度；跨导（小写）</li>
+<li>Τ η tau tau 套 时间常数</li>
+<li>Υ υ upsilon jupsilon 宇普西龙 位移</li>
+<li>Φ θ phi fai 佛爱 磁通；角</li>
+<li>Φ χ chi phai 西</li>
+<li>Χ ψ psi psai 普西 角速；介质电通量（静电力线）；角</li>
+<li>Ψ ω omega omiga 欧米伽 欧姆（大写）；角速（小写）；角</li>
+</ol>
+<h3 id="单位及货币">单位及货币</h3>
+<p>℃ ℉ ㎎ ㎏ ㎜ ㎝ ㎞ ㎡ ㏄ ㏎ ㏑ ㏒ ㏕ ° ℉<br>
+§№ ℡ ℠ ™  ℀ ℁ ℅ ℆ ℂ  ℄ ℇ ℈<br>
+㎙ ㎚ ㎛ ㎜ ㎝ ㎞ ㎟ ㎠ ㎡ ㎢ ㎣ ㎤ ㎥ ㎦<br>
+㎅ ㎆ ㎇㎕ ㎖ ㎗ ㎘ ㎍ ㎎ ㎏ ㏀ ㏁<br>
+㍱ ㍲ ㍳ ㍴ ㍵ ㍶ ㎀ ㎁ ㎂ ㎃ ㎄<br>
+㎈ ㎉ ㎊ ㎋ ㎌ ㎐ ㎑ ㎒ ㎓ ㎔<br>
+㏃ ㏄ ㏅ ㏆ ㏇ ㏈ ㏉ ㏊ ㏋ ㏌ ㏍ ㏎ ㏏<br>
+㏐ ㏑ ㏒ ㏓ ㏔ ㏕ ㏖ ㏗ ㏙ ㏚ ㏛ ㏜ ㏝<br>
+$　￥　₩　￡　€　￠　¥　₽ 　₮　฿　৲　৳　௹　៛　₠　₢　₣　₤　₥　₦　₧　₨　₪　₫　₭　₯　₰　₲　₳　₴　﷼　¢　¤　ƒ</p>
+<h3 id="三角形">三角形</h3>
+<p>▲ ▼ ▴ ▾ ▶ ▸ ► ◀ ◂ ◄ ◢ ◣ △ ▽ ▵ ▿ ▷ ▹ ▻ ◁ ◃ ◅ ◥ ◤ ◅ ◢ ◣ ◤ ◥ ◬ ◭ ◮ ∇ ∆ ⊿ ⟁ ⧍ ⧊ ⧋ ⧌ ⧐ ⧏ ⧔ ⧕ ⧑ ⧒ ⧓ ⧖ ⧗<br>
+⍒ ⌺ ⍙ ⏅ ⏃ ⏄ ⍋ ⍫ ⍱ ⍲ ⍢</p>
+<h3 id="方形">方形</h3>
+<p>∎ ⊞ ⊟ ⊠ ⊡ ⎔ ⎚ ▀ ■ □ ▢ ▣ ▤ ▥ ▦ ▧ ▨ ▩ ▪ ▫ ▬ ▭ ▮ ▯ ▰ ▱ ◘ ◧ ◨ ◩ ◪ ◫ ☖ ☗ ❏ ❐ ❑ ❒ ❖ ❘ ❙ ❚ ◊  ▩ ▢ ⊡ ⧉ ⟥ ⟤ ⧆ ⧈ ⧇ ⧄ ⧅ ⧯ ⧮<br>
+◆ ◇ ◈ ⟐ ⋄ ⟐ ⟡ ⎏ ⎐ ⎑ ⎒ ⟢ ⟣ ⧪ ⧫ ⧰ ⍚</p>
+<h3 id="圆形">圆形</h3>
+<p>◦○ ◯ ⦿ ◉ ● ⊖ ⊙ ⊚ ⊕ ⊗ ⊘ ⊛ ⊜ ⊝ ◌ ◍ ◎ ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗  ❍ ⌒  ◜ ◝ ◞ ◟ ◠ ◡ ⍥ ⧀ ⧁ ⦰ ⦷ ⦹ ⦺ ⦻ ⦼ ⦽ ⧂ ⧃ ⧭ ⍜ ♾ ⏀ ⏁ ⏂ ⍉ ⌽ ⎊ ⧬ ⧭ ◵ ⦻ ⧲ ⧳ ⚇ ⚆ ⚉ ⚈</p>
+<h3 id="爱心">爱心</h3>
+<p>♥ ❤ ❥ ♡ დ ღ ❣ ❦ ❧ ❤  ღ  ❥  ♡ 💓  💔  💕  💖  💗  💘  💙  💚  💛  💜  💝  💞  💟</p>
+<h3 id="箭头">箭头</h3>
+<p>↑ ↓ ← →↔  ↕ ↖ ↗ ↘ ↙ ↚ ↛  ⤴ ⤵ ↵ ↴↰ ↱ ↲ ↳<br>
+➔ ➘ ➙ ➚ ➛ ➜ ➝ ➞ ➟ ➠ ➡ ➢ ➣ ➤ ➥ ➦ ➧ ➨ ➲<br>
+➩ ➪ ➫ ➬ ➭ ➮ ➯ ➱<br>
+↟ ↡↞ ↠ ↢ ↣ ↥ ↧↤↦ ↨ ↩ ↪ ↫ ↬ ↜ ↝ ↭ ↮ ↯ ↶ ↷ ↸ ↹ ↺ ↻<br>
+↾ ↿↼ ⇀⇂ ⇃↽ ⇁ ⇈⇊⇇ ⇉ ⇅ ⇄ ⇆ ⇋ ⇌<br>
+⇍ ⇎ ⇏ ⇕ ⇖ ⇗ ⇘ ⇙ ➾ ⇚ ⇛ ⇜ ⇝ ⇞ ⇟ ⇠ ⇡ ⇢ ⇣ ⇤ ⇥<br>
+⇦ ⇧ ⇨ ⇩ ⇪ ⌅ ⌆ ⌤ ⏎ ☇ ☈ ☊ ☋ ☌ ☍<br>
+➳ ➴ ➵ ➶ ➷ ➸ ➹ ➺ ➻ ➼ ➽</p>
+<h3 id="星星">星星</h3>
+<p>★ ☆ ✪ ✦ ✧ ✩ ✫ ✬ ✭ ✮ ✯ ✰ ✡ ⁂ ⁎ ⁑ ✢ ✣ ✥ ✱ ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺</p>
+<h3 id="花朵">花朵</h3>
+<p>✿ ❀ ❁ ❂ ❃ ❇ ❈ ❉ ❊ ❋ ✻ ✼ ✤ ✽ ✾</p>
+<h3 id="其他形状">其他形状</h3>
+<p>⟕ ⟖ ⟗ ⟠ ☿　♀　♁　♂　⚢　⚣　⚤　⚥　⚦　⚧　⚨　⚩ ♣ ♦ ♥ ♠ ♡ ♢ ♤ ♧ ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ ♩ ♪ ♫ ♬ ♭ ♮ ♯</p>
+<h3 id="数学运算">数学运算</h3>
+<p>＋  －  ×  ÷  ／  ＝  ≠  √  ± ⊥   ‖   ∠   ⌒   ⊙   ≡   ≌    △<br>
+∝   ∧   ∨   ～   ∫   ≠  ≤  ≥  ≈  ∞   ∶ ∪   ∩   ∈ ∑   π<br>
+∴  ∵  ∶  ∷  ∸  ∹  ∺  ∻  ∼  ∽  ∾  ∿  ≀<br>
+⦯ ⦮ ⦨ ⦩ ⦬ ⦭ ⦪ ⦫ ⦥ ⦤ ⦦ ⦧ ⦛ ⦜ ⦟ ⦡ ⦠ ⦣ ⦢ ⦞ ⦝<br>
+|a|    ⊥    ∽    △    ∠    ∩    ∪    ≠    ≡    ±    ≥    ≤    ∈    ←<br>
+↑    →    ↓    ↖    ↗    ↘    ↙    ‖    ∧    ∨<br>
+½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅐ ⅛ ⅜ ⅝ ⅞ ⅑ ⅒ ⅟ ↉<br>
+% ‰ ‱<br>
+ƒ √ ∛ ∜ ∝ ∞ ∟ ∠ ∡ ∢ ∀ ∁ ∂ ∃ ∄ ∅ ∆ ∇</p>
+<h3 id="emoji">emoji</h3>
+<p>☺ ☻ ☹  〠  웃 유<br>
+😀 😁 😂 😃 😄 😅 😆 😇 😈 😉 😊 😋 😌 😍 😎 😏 😐 😑 😒 😓 😔 😕 😖 😗 😘 😙 😚 😛 😜 😝 😞 😟 😠 😡 😢 😣<br>
+😤 😥 😦 😧 😨 😩 😪 😫 😬 😭 😮 😯 😰 😱 😲 😳 😴 😵 😶 😷 😸 😹 😺 😻 😼 😽 😾 😿 🙀 🙈 🙉 🙊 🙆 🙋 🙍 🙎<br>
+🙅 ☀ ☁ ☂ ϟ  ☄ ☉ ☼ ☾ ☽ ♁ ♨ ❄ ❅ ❆ ☃ ⭐ ☁ ⛅ 🌤 🌥 🌦 🌧 🌩 🌪 🌫 🌀 🌈 🌂 ☔ ⚡  ⛄<br>
+☛ ☚ ☞ ☜ ☝ ☟ ✌ ✍  👍 👎 ✊ 👊 👉 👈 🤘 🤟 ✋ 🤚 🖐 👆 👇 🙏 🙌</p>
+<h3 id="12星座">12星座</h3>
+<p>依次为白羊座，金牛座，双子座，巨蟹座，狮子座，处女座，天秤座，天蝎座，射手座，摩羯座，水瓶座和双鱼座<br>
+♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓</p>
+<h3 id="月份">月份</h3>
+<p>㋀　㋁　㋂　㋃　㋄　㋅　㋆　㋇　㋈　㋉　㋊　㋋</p>
+<h3 id="日期">日期</h3>
+<p>㏠　㏡　㏢　㏣　㏤　㏥　㏦　㏧　㏨　㏩<br>
+㏪　㏫　㏬　㏭　㏮　㏯　㏰　㏱　㏲　㏳<br>
+㏴　㏵　㏶　㏷　㏸　㏹　㏺　㏻　㏼　㏽　㏾</p>
+<h3 id="时间">时间</h3>
+<p>㍘　㍙　㍚　㍛　㍜　㍝　㍞　㍟　㍠　㍡　㍢　㍣　㍤<br>
+㍥　㍦　㍧　㍨　㍩　㍪　㍫　㍬　㍭　㍮　㍯　㍰ ㏂　㏘</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[安卓版WPS OFFICE]]></title>
@@ -31,6 +149,10 @@
         <link href="https://ilgq1994.github.io/post/an-zhuo-ban-wps-office">
         </link>
         <updated>2019-07-06T23:07:07.000Z</updated>
+        <content type="html"><![CDATA[<p>点<a href="https://www.lanzous.com/i5je1qf">此处</a>下载<br>
+<img src="https://i.loli.net/2019/08/15/OVNILnkq3R8Zwjp.png" alt=""><br>
+WPS for Android是WPS Office的安卓版，WPS Office是一款办公软件套装，可以实现办公软件最常用的文字、表格、演示等多种功能。内存占用低，运行速度快，体积小巧。具有强大插件平台支持，免费提供海量在线存储空间及文档模板，支持阅读和输出PDF文件，全面兼容微软Office97-2019格式（doc/docx/xls/xlsx/ppt/pptx等）。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[小技巧]]></title>
@@ -38,6 +160,18 @@
         <link href="https://ilgq1994.github.io/post/xiao-ji-qiao">
         </link>
         <updated>2019-03-01T05:16:12.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="更改右键发送到选项">更改右键“发送到&quot;选项</h1>
+<p>随便打开一个文件夹，在地址栏中输入“shell:sendto”，按回车键打开“发送到”文件夹。</p>
+<h1 id="新建关机快速按钮">新建关机快速按钮</h1>
+<p>新建快捷方式，填： shutdown –s –t 0</p>
+<h1 id="关闭视频预览">关闭视频预览</h1>
+<p>打开注册表，找到键值删除<br>
+HKEY_CLASSES_ROOT\CLSID{9DBD2C50-62AD-11d0-B806-00C04FD706EC}<br>
+删除权限问题：如果无法删除键值，则右键键值-&gt;权限-&gt;高级-&gt;所有者-&gt;更改-&gt;输入要选择对象的名称，把所有者更改为当前用户（Administrator），再给赋予权限即可。</p>
+<h1 id="删除计算机-3d对象">删除计算机-3D对象</h1>
+<p>打开注册表，找到键值删除<br>
+KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\NameSpace{0DB7E03F-FC29-4DC6-9020-FF41B59E513A}</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows激活]]></title>
@@ -45,6 +179,18 @@
         <link href="https://ilgq1994.github.io/post/windows-ji-huo">
         </link>
         <updated>2019-02-13T04:28:04.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="kms激活">KMS激活</h3>
+<p>主要包含: office永久激活，kms激活等内容。</p>
+<blockquote>
+<p>点<a href="https://github.com/iLGQ1994/ilgq1994.github.io/raw/master/FILE/06-KMSpico.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="小马激活">小马激活</h3>
+<p>与KMS类似，对Win7的支持较好。</p>
+<blockquote>
+<p>点<a href="https://github.com/iLGQ1994/ilgq1994.github.io/raw/master/FILE/08-win7%E5%B0%8F%E9%A9%AC%E6%BF%80%E6%B4%BB.zip">此处</a>下载</p>
+</blockquote>
+<p><strong>仅供学习，请使用正版操作系统。</strong></p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[JPG压缩]]></title>
@@ -52,6 +198,11 @@
         <link href="https://ilgq1994.github.io/post/jpg-ya-suo">
         </link>
         <updated>2019-01-16T04:35:38.000Z</updated>
+        <content type="html"><![CDATA[<p>大幅度减小JPG格式图片的大小，也尽可能不影响图片的清晰度(推荐60%以上)。</p>
+<blockquote>
+<p>点<a href="https://www.lanzous.com/i5m0ueb">此处</a>下载</p>
+</blockquote>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[右键添加管理员CMD]]></title>
@@ -59,6 +210,51 @@
         <link href="https://ilgq1994.github.io/post/you-jian-tian-jia-guan-li-yuan-cmd">
         </link>
         <updated>2018-10-01T04:42:26.000Z</updated>
+        <content type="html"><![CDATA[<p>Windows 10自带的为powershell，有时需要CMD。<br>
+<img src="https://i.loli.net/2019/08/15/7ja8i45LbOXs9Uv.png" alt=""></p>
+<h3 id="替换方法">替换方法</h3>
+<p>新建reg文件，复制以下代码，导入注册表。</p>
+<pre><code>Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\Directory\shell\runas]
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+
+[-HKEY_CLASSES_ROOT\Drive\shell\runas]
+
+[HKEY_CLASSES_ROOT\Drive\shell\runas]
+
+@=&quot;CMD(admin)&quot;
+
+&quot;HasLUAShield&quot;=&quot;&quot;
+
+[HKEY_CLASSES_ROOT\Drive\shell\runas\command]
+
+@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
+</code></pre>
+<p>导入完成即可。<br>
+或<a href="https://github.com/iLGQ1994/FILE/raw/master/16-cmd.zip">点此</a>下载reg文件导入</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ StartIsBack]]></title>
@@ -66,6 +262,12 @@
         <link href="https://ilgq1994.github.io/post/startis-back">
         </link>
         <updated>2018-09-16T03:33:21.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/08/16/Iofcm2wlNyeExaX.jpg" alt=""><br>
+用于美化win10任务栏，增加透明效果。</p>
+<blockquote>
+<p>点<a href="https://www.lanzous.com/i5m0uwj">此处</a>下载</p>
+</blockquote>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows工具]]></title>
@@ -73,6 +275,53 @@
         <link href="https://ilgq1994.github.io/post/windows-gong-ju">
         </link>
         <updated>2018-08-25T14:34:49.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="winrar解压缩软件">WinRAR解压缩软件</h3>
+<p>WinRAR 是一款用于管理压缩包文件的共享软件。但目前推荐使用Bandzip！</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/02-Winrar.zip">此处</a>下载烈火修改版。</p>
+</blockquote>
+<h3 id="jpg压缩">JPG压缩</h3>
+<p>大幅度减小图片大小，也尽可能不影响图片的清晰度(推荐60%以上)。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/03-JPG%E5%8E%8B%E7%BC%A9.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="fastcopy">FastCopy</h3>
+<p>FastCopy是一款快速的文件拷贝计算机软件，特点是复制速度更快，能保留被复制文件和文件夹的原始时间，以及其他高级功能。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/04-FastCopy.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="everything">Everything</h3>
+<p>Everything是一个Windows桌面搜索引擎，可以在NTFS卷上快速地根据名称查找文件和目录。由澳大利亚人大卫·卡彭特开发。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/05-Everything.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="ssr-windows客户端">SSR windows客户端</h3>
+<p>SS，是一种基于 Socks5 代理方式的网络数据加密传输包，是目前最稳定最好用的科学上网工具之一。 ShadowsocksR在SS 的基础上做了些功能的增加和修改。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/07-SSR.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="spacesniffer">SpaceSniffer</h3>
+<p>SpaceSniffer 是 Windows 上一款以块状树平铺直观展现磁盘空间占用情况的软件，使用简单。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/09-SpaceSniffer.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="xuetr">XueTr</h3>
+<p>一个强大的手工杀毒辅助软件，能够获取系统最高权限，从而顺利执行各类系统维护操作，在它的帮助下您可以很方便的揪出电脑中的病毒木马。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/10-XueTr.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="pdf解密">PDF解密</h3>
+<p>用于移除加密PDF文件的密码，以方便复制和打印。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/11-PDF%E8%A7%A3%E5%AF%86.zip">此处</a>下载</p>
+</blockquote>
+<h3 id="idminternet-download-manager">IDM(Internet Download Manager)</h3>
+<p>用于下载各种资源，迅雷替代品。</p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/14-IDM.zip">此处</a>下载</p>
+</blockquote>
+<h3 id=""></h3>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[win10图片预览]]></title>
@@ -80,5 +329,11 @@
         <link href="https://ilgq1994.github.io/post/win10-tu-pian-yu-lan">
         </link>
         <updated>2018-08-08T00:08:08.000Z</updated>
+        <content type="html"><![CDATA[<p>在win10系统下，使用<strong>Windows 照片查看器</strong>而不是<strong>照片</strong>预览图片<br>
+<img src="https://i.loli.net/2019/08/15/9L8QUPirTWhFokq.png" alt=""></p>
+<blockquote>
+<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/01-%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88.zip">此处</a>下载并更改</p>
+</blockquote>
+]]></content>
     </entry>
 </feed>
