@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-08-16T15:58:43.745Z</updated>
+    <updated>2019-08-16T18:30:37.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -155,6 +155,21 @@ WPS for Android是WPS Office的安卓版，WPS Office是一款办公软件套装
 ]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PPT输出高DPI图片]]></title>
+        <id>https://ilgq1994.github.io/post/ppt-shu-chu-gao-dpi-tu-pian</id>
+        <link href="https://ilgq1994.github.io/post/ppt-shu-chu-gao-dpi-tu-pian">
+        </link>
+        <updated>2019-06-17T18:13:15.000Z</updated>
+        <content type="html"><![CDATA[<p>打开注册表，进入</p>
+<ul>
+<li>HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\PowerPoint\Options</li>
+</ul>
+<p>根据版本不同，office后可跟15或其他<br>
+右键新建“DWORD（32位）值命名为ExportBitmapResolution，右键-修改：10进制，填入300，代表300dpi，需要更清楚则填600<br>
+<img src="https://i.loli.net/2019/08/17/Nr7y8lgjTeXAmwG.jpg" alt=""></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小技巧]]></title>
         <id>https://ilgq1994.github.io/post/xiao-ji-qiao</id>
         <link href="https://ilgq1994.github.io/post/xiao-ji-qiao">
@@ -179,15 +194,16 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
         <link href="https://ilgq1994.github.io/post/windows-ji-huo">
         </link>
         <updated>2019-02-13T04:28:04.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="kms激活">KMS激活</h3>
+        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/08/17/5tBayD3oOPHIMJR.jpg" alt=""></p>
+<h3 id="kms激活">KMS激活</h3>
 <p>主要包含: office永久激活，kms激活等内容。</p>
 <blockquote>
-<p>点<a href="https://github.com/iLGQ1994/ilgq1994.github.io/raw/master/FILE/06-KMSpico.zip">此处</a>下载</p>
+<p>点<a href="https://www.lanzous.com/i5m0ukh">此处</a>下载</p>
 </blockquote>
 <h3 id="小马激活">小马激活</h3>
 <p>与KMS类似，对Win7的支持较好。</p>
 <blockquote>
-<p>点<a href="https://github.com/iLGQ1994/ilgq1994.github.io/raw/master/FILE/08-win7%E5%B0%8F%E9%A9%AC%E6%BF%80%E6%B4%BB.zip">此处</a>下载</p>
+<p>点<a href="https://www.lanzous.com/i5m0una">此处</a>下载</p>
 </blockquote>
 <p><strong>仅供学习，请使用正版操作系统。</strong></p>
 ]]></content>
@@ -321,19 +337,6 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
 <p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/14-IDM.zip">此处</a>下载</p>
 </blockquote>
 <h3 id=""></h3>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[win10图片预览]]></title>
-        <id>https://ilgq1994.github.io/post/win10-tu-pian-yu-lan</id>
-        <link href="https://ilgq1994.github.io/post/win10-tu-pian-yu-lan">
-        </link>
-        <updated>2018-08-08T00:08:08.000Z</updated>
-        <content type="html"><![CDATA[<p>在win10系统下，使用<strong>Windows 照片查看器</strong>而不是<strong>照片</strong>预览图片<br>
-<img src="https://i.loli.net/2019/08/15/9L8QUPirTWhFokq.png" alt=""></p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/01-%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88.zip">此处</a>下载并更改</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
