@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-08-17T12:30:10.827Z</updated>
+    <updated>2019-08-27T03:00:46.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -11,6 +11,84 @@
     <logo>https://ilgq1994.github.io/images/avatar.png</logo>
     <icon>https://ilgq1994.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iLGQ1994小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Win运行库]]></title>
+        <id>https://ilgq1994.github.io/post/win-yun-xing-ku</id>
+        <link href="https://ilgq1994.github.io/post/win-yun-xing-ku">
+        </link>
+        <updated>2019-08-27T02:53:31.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/08/27/YRDuVTgc8X16IxJ.jpg" alt=""><br>
+RuntimePack 是一款由俄罗斯著名绿软达人 JamesZero 采用微软发布的 RTM 正式版 VC++ 运行库即动态链接库文件精心打包与制作而成，保持原汁原味的纯净程序。<br>
+<a href="https://www.lanzous.com/i5tm4fa">下载链接</a></p>
+<h1 id="包含的组件">包含的组件：</h1>
+<h3 id="dll-动态链接库">DLL 动态链接库</h3>
+<p>atl70.dll 7.0.9975.0 x86；<br>
+atl71.dll 7.10.6119.0 x86；<br>
+comct232.ocx 6.0.98.39 x86；<br>
+comct332.ocx 6.7.0.9839 x86；<br>
+comctl32.ocx 6.0.98.39 x86；<br>
+comdlg32.ocx 6.1.98.41 x86；<br>
+dblist32.ocx 6.1.98.39 x86；<br>
+mci32.ocx 6.1.98.39 x86；<br>
+mfc70.dll 7.0.9975.0 x86；<br>
+mfc70chs.dll 7.0.9975.0 x86；<br>
+mfc70cht.dll 7.0.9975.0 x86；<br>
+mfc70deu.dll 7.0.9975.0 x86；<br>
+mfc70enu.dll 7.0.9975.0 x86；<br>
+mfc70esp.dll 7.0.9975.0 x86；<br>
+mfc70fra.dll 7.0.9975.0 x86；<br>
+mfc70ita.dll 7.0.9975.0 x86；<br>
+mfc70jpn.dll 7.0.9975.0 x86；<br>
+mfc70kor.dll 7.0.9975.0 x86；<br>
+mfc70u.dll 7.0.9975.0 x86；<br>
+MFC71.dll 7.10.6119.0 x86；<br>
+MFC71CHS.DLL 7.10.6119.0 x86；<br>
+MFC71CHT.DLL 7.10.6119.0 x86；<br>
+MFC71DEU.DLL 7.10.6119.0 x86；<br>
+MFC71ENU.DLL 7.10.6119.0 x86；<br>
+MFC71ESP.DLL 7.10.6119.0 x86；<br>
+MFC71FRA.DLL 7.10.6119.0 x86；<br>
+MFC71ITA.DLL 7.10.6119.0 x86；<br>
+MFC71JPN.DLL 7.10.6119.0 x86；<br>
+MFC71KOR.DLL 7.10.6119.0 x86；<br>
+MFC71u.dll 7.10.6119.0 x86；<br>
+mscomct2.ocx 6.1.98.39 x86；<br>
+mscomctl.ocx 6.1.98.39 x86；<br>
+mscomm32.ocx 6.1.98.39 x86；<br>
+msdatgrd.ocx 6.1.98.39 x86；<br>
+msdatlst.ocx 6.1.98.39 x86；<br>
+mshflxgd.ocx 6.1.98.39 x86；<br>
+msflxgrd.ocx 6.1.98.39 x86；<br>
+msinet.ocx 6.1.98.39 x86；<br>
+msmask32.ocx 6.1.98.39 x86；<br>
+msstdfmt.dll 6.1.98.39 x86；<br>
+MSSTKPRP.DLL 6.1.98.39 x86；<br>
+msvbvm50.dll 5.2.82.44 x86；<br>
+msvci70.dll 7.0.9466.0 x86；<br>
+MSVCP70.DLL 7.0.9466.0 x86；<br>
+msvcp71.dll 7.10.6052.0 x86；<br>
+msvcr70.dll 7.0.9981.0 x86；<br>
+msvcr71.dll 7.10.7031.4 x86；<br>
+msvcrt10.dll x86；<br>
+mswinsck.ocx 6.1.98.39 x86；<br>
+picclp32.ocx 6.1.98.39 x86；<br>
+richtx32.ocx 6.1.98.39 x86；<br>
+sysinfo.ocx 6.1.98.39 x86；<br>
+tabctl32.ocx 6.1.98.39 x86；<br>
+Vb40032.dll 4.0.29.24 x86；<br>
+Vb40016.dll 4.0.24.22 x86；<br>
+vbrun100.dll x86；<br>
+vbrun200.dll 2.0.9.8 x86；<br>
+Vbrun300.dll 3.0.5.38 x86；</p>
+<h3 id="vc-运行库">VC++ 运行库</h3>
+<p>Microsoft Visual C++ 2005 Redistributable Package v8.0.61001 x86/x64；<br>
+Microsoft Visual C++ 2008 Redistributable Package v9.0.30729.6161 x86/x64；<br>
+Microsoft Visual C++ 2010 Redistributable Package v10.0.40219.325 x86/x64；<br>
+Microsoft Visual C++ 2012 Redistributable Package v11.0.61030 x86/x64；<br>
+Microsoft Visual C++ 2013 Redistributable Package v12.0.40660.0 x86/x64；<br>
+Microsoft Visual C++ 2017 Redistributable Package v14.10.25008 x86/x64；</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[迅雷敏感资源限制解除]]></title>
         <id>https://ilgq1994.github.io/post/xun-lei-min-gan-zi-yuan-xian-zhi-jie-chu</id>
@@ -283,60 +361,6 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
 <blockquote>
 <p>点<a href="https://www.lanzous.com/i5m0uwj">此处</a>下载</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows工具]]></title>
-        <id>https://ilgq1994.github.io/post/windows-gong-ju</id>
-        <link href="https://ilgq1994.github.io/post/windows-gong-ju">
-        </link>
-        <updated>2018-08-25T14:34:49.000Z</updated>
-        <content type="html"><![CDATA[<h3 id="winrar解压缩软件">WinRAR解压缩软件</h3>
-<p>WinRAR 是一款用于管理压缩包文件的共享软件。但目前推荐使用Bandzip！</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/02-Winrar.zip">此处</a>下载烈火修改版。</p>
-</blockquote>
-<h3 id="jpg压缩">JPG压缩</h3>
-<p>大幅度减小图片大小，也尽可能不影响图片的清晰度(推荐60%以上)。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/03-JPG%E5%8E%8B%E7%BC%A9.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="fastcopy">FastCopy</h3>
-<p>FastCopy是一款快速的文件拷贝计算机软件，特点是复制速度更快，能保留被复制文件和文件夹的原始时间，以及其他高级功能。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/04-FastCopy.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="everything">Everything</h3>
-<p>Everything是一个Windows桌面搜索引擎，可以在NTFS卷上快速地根据名称查找文件和目录。由澳大利亚人大卫·卡彭特开发。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/05-Everything.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="ssr-windows客户端">SSR windows客户端</h3>
-<p>SS，是一种基于 Socks5 代理方式的网络数据加密传输包，是目前最稳定最好用的科学上网工具之一。 ShadowsocksR在SS 的基础上做了些功能的增加和修改。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/07-SSR.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="spacesniffer">SpaceSniffer</h3>
-<p>SpaceSniffer 是 Windows 上一款以块状树平铺直观展现磁盘空间占用情况的软件，使用简单。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/09-SpaceSniffer.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="xuetr">XueTr</h3>
-<p>一个强大的手工杀毒辅助软件，能够获取系统最高权限，从而顺利执行各类系统维护操作，在它的帮助下您可以很方便的揪出电脑中的病毒木马。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/10-XueTr.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="pdf解密">PDF解密</h3>
-<p>用于移除加密PDF文件的密码，以方便复制和打印。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/11-PDF%E8%A7%A3%E5%AF%86.zip">此处</a>下载</p>
-</blockquote>
-<h3 id="idminternet-download-manager">IDM(Internet Download Manager)</h3>
-<p>用于下载各种资源，迅雷替代品。</p>
-<blockquote>
-<p>点<a href="https://raw.githubusercontent.com/iLGQ1994/FILE/master/14-IDM.zip">此处</a>下载</p>
-</blockquote>
-<h3 id=""></h3>
 ]]></content>
     </entry>
 </feed>
