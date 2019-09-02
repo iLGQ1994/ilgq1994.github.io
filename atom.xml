@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-08-27T05:51:27.013Z</updated>
+    <updated>2019-09-02T06:13:21.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -11,6 +11,16 @@
     <logo>https://ilgq1994.github.io/images/avatar.png</logo>
     <icon>https://ilgq1994.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iLGQ1994小站</rights>
+    <entry>
+        <title type="html"><![CDATA[EndnoteX9导入cnki问题]]></title>
+        <id>https://ilgq1994.github.io/post/endnotex9-dao-ru-cnki-wen-ti</id>
+        <link href="https://ilgq1994.github.io/post/endnotex9-dao-ru-cnki-wen-ti">
+        </link>
+        <updated>2019-09-02T06:08:08.000Z</updated>
+        <content type="html"><![CDATA[<p>在新版本 X9 中，会出现无法识别期刊名称问题，解决方案如下：<br>
+点<a href="https://www.lanzous.com/i5ycy7c">此处</a>下载修改好的 EndNote Import.enf ，替换Endnotex9安装目录内Filters文件夹下的同名文件(C:\Program Files (x86)\EndNote X9\Filters）。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Win运行库]]></title>
         <id>https://ilgq1994.github.io/post/win-yun-xing-ku</id>
@@ -348,20 +358,6 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
 </code></pre>
 <p>导入完成即可。<br>
 或<a href="https://github.com/iLGQ1994/FILE/raw/master/16-cmd.zip">点此</a>下载reg文件导入</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ win10透明任务栏]]></title>
-        <id>https://ilgq1994.github.io/post/startis-back</id>
-        <link href="https://ilgq1994.github.io/post/startis-back">
-        </link>
-        <updated>2018-09-16T03:33:21.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://i.loli.net/2019/08/16/Iofcm2wlNyeExaX.jpg" alt=""><br>
-StartIsBack破解版，用于美化win10任务栏，增加透明效果。<br>
-设置方式：控制面板-大图标-开始菜单</p>
-<blockquote>
-<p>点<a href="https://www.lanzous.com/i5tq3kd">此处</a>下载</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
