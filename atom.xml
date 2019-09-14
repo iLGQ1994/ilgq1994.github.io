@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-09-02T06:20:41.743Z</updated>
+    <updated>2019-09-14T05:37:26.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -11,6 +11,22 @@
     <logo>https://ilgq1994.github.io/images/avatar.png</logo>
     <icon>https://ilgq1994.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iLGQ1994小站</rights>
+    <entry>
+        <title type="html"><![CDATA[关闭笔记本自带键盘]]></title>
+        <id>https://ilgq1994.github.io/post/guan-bi-bi-ji-ben-zi-dai-jian-pan</id>
+        <link href="https://ilgq1994.github.io/post/guan-bi-bi-ji-ben-zi-dai-jian-pan">
+        </link>
+        <updated>2019-09-14T05:35:32.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="关闭笔记本自带键盘">关闭笔记本自带键盘</h1>
+<p>管理员运行cmd<br>
+sc config i8042prt start=disabled<br>
+重启</p>
+<h1 id="启动笔记本自带键盘">启动笔记本自带键盘</h1>
+<p>管理员运行cmd<br>
+sc config i8042prt start=demand<br>
+重启</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EndnoteX9导入cnki问题]]></title>
         <id>https://ilgq1994.github.io/post/endnotex9-dao-ru-cnki-wen-ti</id>
@@ -306,58 +322,6 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
 <blockquote>
 <p>点<a href="https://www.lanzous.com/i5m0ueb">此处</a>下载</p>
 </blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[右键添加管理员CMD]]></title>
-        <id>https://ilgq1994.github.io/post/you-jian-tian-jia-guan-li-yuan-cmd</id>
-        <link href="https://ilgq1994.github.io/post/you-jian-tian-jia-guan-li-yuan-cmd">
-        </link>
-        <updated>2018-10-01T04:42:26.000Z</updated>
-        <content type="html"><![CDATA[<p>Windows 10自带的为powershell，有时需要CMD。<br>
-<img src="https://i.loli.net/2019/08/15/7ja8i45LbOXs9Uv.png" alt=""></p>
-<h3 id="替换方法">替换方法</h3>
-<p>新建reg文件，复制以下代码，导入注册表。</p>
-<pre><code>Windows Registry Editor Version 5.00
-
-[-HKEY_CLASSES_ROOT\Directory\shell\runas]
-
-[HKEY_CLASSES_ROOT\Directory\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Directory\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-
-[-HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-
-[-HKEY_CLASSES_ROOT\Drive\shell\runas]
-
-[HKEY_CLASSES_ROOT\Drive\shell\runas]
-
-@=&quot;CMD(admin)&quot;
-
-&quot;HasLUAShield&quot;=&quot;&quot;
-
-[HKEY_CLASSES_ROOT\Drive\shell\runas\command]
-
-@=&quot;cmd.exe /s /k pushd \&quot;%V\&quot;&quot;
-</code></pre>
-<p>导入完成即可。<br>
-或<a href="https://github.com/iLGQ1994/FILE/raw/master/16-cmd.zip">点此</a>下载reg文件导入</p>
 ]]></content>
     </entry>
 </feed>
