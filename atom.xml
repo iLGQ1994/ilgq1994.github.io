@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ilgq1994.github.io</id>
     <title>iLGQ1994小站</title>
-    <updated>2019-10-25T05:56:44.900Z</updated>
+    <updated>2019-10-25T08:19:43.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ilgq1994.github.io"/>
     <link rel="self" href="https://ilgq1994.github.io/atom.xml"/>
@@ -11,6 +11,92 @@
     <logo>https://ilgq1994.github.io/images/avatar.png</logo>
     <icon>https://ilgq1994.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iLGQ1994小站</rights>
+    <entry>
+        <title type="html"><![CDATA[Scrcpy – 远程显示/控制 Android 手机]]></title>
+        <id>https://ilgq1994.github.io/post/scrcpy-yuan-cheng-xian-shi-kong-zhi-android-shou-ji</id>
+        <link href="https://ilgq1994.github.io/post/scrcpy-yuan-cheng-xian-shi-kong-zhi-android-shou-ji">
+        </link>
+        <updated>2019-10-25T08:09:33.000Z</updated>
+        <content type="html"><![CDATA[<p>一个开源的远程显示/控制 Android 软件 Scrcpy，<a href="https://github.com/Genymobile/scrcpy">Github项目</a><br>
+要求：Android 5.0 以上，启用 adb 调试（即 USB 调试）<br>
+快捷键：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">功能</th>
+<th style="text-align:center">快捷键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">切换全屏模式</td>
+<td style="text-align:center">Ctrl+f</td>
+</tr>
+<tr>
+<td style="text-align:left">将窗口调整为1：1（完美像素）</td>
+<td style="text-align:center">Ctrl+g</td>
+</tr>
+<tr>
+<td style="text-align:left">调整窗口大小以删除黑色边框</td>
+<td style="text-align:center">Ctrl+x /双击黑色背景</td>
+</tr>
+<tr>
+<td style="text-align:left">设备HOME键</td>
+<td style="text-align:center">Ctrl+h /鼠标中键</td>
+</tr>
+<tr>
+<td style="text-align:left">设备BACK键</td>
+<td style="text-align:center">Ctrl+b /鼠标右键</td>
+</tr>
+<tr>
+<td style="text-align:left">设备任务管理键</td>
+<td style="text-align:center">Ctrl+s</td>
+</tr>
+<tr>
+<td style="text-align:left">设备 菜单 键</td>
+<td style="text-align:center">Ctrl+m</td>
+</tr>
+<tr>
+<td style="text-align:left">设备音量+键</td>
+<td style="text-align:center">Ctrl+↑</td>
+</tr>
+<tr>
+<td style="text-align:left">设备音量-键</td>
+<td style="text-align:center">Ctrl+↓</td>
+</tr>
+<tr>
+<td style="text-align:left">设备电源键</td>
+<td style="text-align:center">Ctrl+p</td>
+</tr>
+<tr>
+<td style="text-align:left">点亮手机屏幕</td>
+<td style="text-align:center">鼠标右键</td>
+</tr>
+<tr>
+<td style="text-align:left">复制内容到设备</td>
+<td style="text-align:center">Ctrl+v</td>
+</tr>
+<tr>
+<td style="text-align:left">启用/禁用FPS计数器</td>
+<td style="text-align:center">Ctrl+i</td>
+</tr>
+<tr>
+<td style="text-align:left">关闭手机屏幕</td>
+<td style="text-align:center">Ctrl+o</td>
+</tr>
+<tr>
+<td style="text-align:left">安装APK</td>
+<td style="text-align:center">将apk文件拖入投屏</td>
+</tr>
+<tr>
+<td style="text-align:left">传输文件到设备</td>
+<td style="text-align:center">将文件拖入投屏（非apk）</td>
+</tr>
+</tbody>
+</table>
+<p>下载地址：<a href="https://www.lanzous.com/i6z8bid">点此处下载</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关闭笔记本自带键盘]]></title>
         <id>https://ilgq1994.github.io/post/guan-bi-bi-ji-ben-zi-dai-jian-pan</id>
@@ -311,18 +397,6 @@ KEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\MyComputer\
 <p>点<a href="https://www.lanzous.com/i5m0una">此处</a>下载</p>
 </blockquote>
 <p><strong>仅供学习，请使用正版操作系统。</strong></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPG压缩]]></title>
-        <id>https://ilgq1994.github.io/post/jpg-ya-suo</id>
-        <link href="https://ilgq1994.github.io/post/jpg-ya-suo">
-        </link>
-        <updated>2019-01-16T04:35:38.000Z</updated>
-        <content type="html"><![CDATA[<p>大幅度减小JPG格式图片的大小，也尽可能不影响图片的清晰度(推荐60%以上)。</p>
-<blockquote>
-<p>点<a href="https://www.lanzous.com/i5m0ueb">此处</a>下载</p>
-</blockquote>
 ]]></content>
     </entry>
 </feed>
